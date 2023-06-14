@@ -1,0 +1,13 @@
+#RewriteBase /
+RewriteEngine on
+
+RewriteRule ^index index.php
+RewriteRule ^registros registros.php
+RewriteRule ^producto producto.php
+RewriteRule ^login login.php
+RewriteRule ^dashboard dashboard.php
+RewriteRule ^listado listado.php
+RewriteRule ^entrada dashboard.php
+RewriteRule ^ventas ventas.php
+RewriteRule ^registro registro.php
+RewriteRule ^reservado reservado.php
